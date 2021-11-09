@@ -5,7 +5,7 @@ html {
   font-weight: 400;
 }
 
-h2, h4, p{
+h2, h4, h5, p{
   margin: 0;
 }
 
@@ -61,7 +61,7 @@ body{
   margin-bottom: 20px; 
 }
 
-#top_section h4{
+#top_section h3{
   color: #c0df34;
   margin-bottom: 10px;
 }
