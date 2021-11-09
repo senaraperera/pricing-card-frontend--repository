@@ -14,7 +14,7 @@ h2, h4, p{
 }
 
 #card {
-  width: 600x;
+  width: 600px;
   height: 400px;
   box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
   border-radius: 5px;
